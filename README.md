@@ -1,4 +1,3 @@
-# modular-framework-guru99
 ## Sample automation framework using Selenium and TestNG
 ** Based on the hands-on learning I took in Coursera: Building Test Automation Framework using Selenium and TestNG **
 > https://www.coursera.org/learn/building-test-automation-framework-using-selenium-and-testng/home/welcome
