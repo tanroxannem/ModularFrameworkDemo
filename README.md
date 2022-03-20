@@ -1,6 +1,6 @@
 ## Sample automation framework using Selenium and TestNG
 **Based on the hands-on learning I took in Coursera: Building Test Automation Framework using Selenium and TestNG**
-> https://www.coursera.org/learn/building-test-automation-framework-using-selenium-and-testng/home/welcome
+> https://www.coursera.org/projects/building-test-automation-framework-using-selenium-and-testng
 
 **Tested with the following resources**
 1. Windows 10 Home, 64-bit OS
